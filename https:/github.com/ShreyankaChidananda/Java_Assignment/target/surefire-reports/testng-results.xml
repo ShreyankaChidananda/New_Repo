@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-10T14:59:11 CET" name="Surefire suite" finished-at="2024-03-10T14:59:11 CET" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2024-03-10T14:59:11 CET" name="Surefire test" finished-at="2024-03-10T14:59:11 CET" duration-ms="119">
+      <class name="TestComponents.BaseTest">
+        <test-method is-config="true" signature="config()[pri:0, instance:TestComponents.BaseTest@28701274]" started-at="2024-03-10T14:59:11 CET" name="config" finished-at="2024-03-10T14:59:11 CET" duration-ms="116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+      </class> <!-- TestComponents.BaseTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
